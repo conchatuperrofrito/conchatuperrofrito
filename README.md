@@ -1,6 +1,4 @@
-[![MC Technology](src/1.GIF)]
-
----
+## <div align="center">[![MC Technology](src/1.GIF)]</div>
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
