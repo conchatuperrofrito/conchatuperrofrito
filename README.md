@@ -1,3 +1,4 @@
+☢🚸JUEVES 9 2023: BUSCO TRABAJO POR COMIDA PI PIPIPI 🚸☢
 ## <div align="center">![MC Technology](src/1.GIF)</div>
 
 <div align="center" >
