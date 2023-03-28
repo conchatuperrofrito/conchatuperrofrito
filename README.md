@@ -1,5 +1,5 @@
-☢🚸hoy   BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
-La fecha actual es: `r format(Sys.time(), '%Y-%m-%d')`
+☢🚸hoy `r format(Sys.time(), '%Y-%m-%d')` BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
+
 ## <div align="center">![MC Technology](src/1.GIF)</div>
 <div align="center" >
   <a href="https://github.com/conchatuperrofrito">
@@ -8,10 +8,3 @@ La fecha actual es: `r format(Sys.time(), '%Y-%m-%d')`
 </div>
 
 ![Snake animation](src/serpiente.svg)
-fecha_actual <- Sys.Date()
-##format(fecha_actual, "%d.%m.%Y")
-## [1] "11.02.2021"
-##format(fecha_actual, "%d. %B %Y")
-## [1] "11. Februar 2021"
-##format(fecha_actual, "%m/%d/%Y")
-## [1] "02/11/2021"
