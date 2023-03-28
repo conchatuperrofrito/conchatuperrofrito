@@ -1,4 +1,7 @@
-☢🚸marzo 2023: BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
+☢🚸hoy <div <script>
+var d = new Date();
+document.write(d.getDate());
+</script> </div> BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
 ## <div align="center">![MC Technology](src/1.GIF)</div>
 
 <div align="center" >
