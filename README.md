@@ -1,9 +1,9 @@
-☢🚸hoy  <script>
+☢🚸hoy   BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
+## <div align="center">![MC Technology](src/1.GIF)</div>
+<script>
 var d = new Date();
 document.write(d.getDate());
-</script> BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
-## <div align="center">![MC Technology](src/1.GIF)</div>
-
+</script>
 <div align="center" >
   <a href="https://github.com/conchatuperrofrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=conchatuperrofrito&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
