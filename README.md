@@ -1,6 +1,5 @@
 ☢🚸hoy   BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
-La fecha actual es: AAAA-MM-DD
-La fecha actual es: `date +%F`
+La fecha actual es: `r format(Sys.time(), '%Y-%m-%d')`
 ## <div align="center">![MC Technology](src/1.GIF)</div>
 <div align="center" >
   <a href="https://github.com/conchatuperrofrito">
