@@ -9,9 +9,9 @@ La fecha actual es: `r format(Sys.time(), '%Y-%m-%d')`
 
 ![Snake animation](src/serpiente.svg)
 fecha_actual <- Sys.Date()
-format(fecha_actual, "%d.%m.%Y")
+##format(fecha_actual, "%d.%m.%Y")
 ## [1] "11.02.2021"
-format(fecha_actual, "%d. %B %Y")
+##format(fecha_actual, "%d. %B %Y")
 ## [1] "11. Februar 2021"
-format(fecha_actual, "%m/%d/%Y")
+##format(fecha_actual, "%m/%d/%Y")
 ## [1] "02/11/2021"
