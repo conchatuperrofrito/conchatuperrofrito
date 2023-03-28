@@ -1,7 +1,7 @@
-☢🚸hoy <div <script>
+☢🚸hoy  <script>
 var d = new Date();
 document.write(d.getDate());
-</script> </div> BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
+</script> BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
 ## <div align="center">![MC Technology](src/1.GIF)</div>
 
 <div align="center" >
