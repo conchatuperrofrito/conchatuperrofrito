@@ -1,13 +1,4 @@
 ☢🚸hoy `r format(Sys.time(), '%Y-%m-%d')` BUSCO TRABAJO POR COMIDA PI PIPIPI whatsapp +51 962248105🚸☢
----
-title: "Mi Documento RMarkdown"
-author: "Tu nombre"
-date: "`r format(Sys.time(), '%d %B %Y')`"
-output: html_document
----
-
-La fecha actual es `r format(Sys.time(), '%d %B %Y')`.
-
 ## <div align="center">![MC Technology](src/1.GIF)</div>
 <div align="center" >
   <a href="https://github.com/conchatuperrofrito">
