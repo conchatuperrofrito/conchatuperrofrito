@@ -13,7 +13,10 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 <h3 align="center"><b>≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡</b></h3>
+
 ![Snake animation](src/serpiente.svg)
+
+
 <details>
   <summary>Github Stats ⚡</summary>
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
