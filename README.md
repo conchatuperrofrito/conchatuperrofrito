@@ -3,7 +3,7 @@
 <div align="center">
 <h3 align="center"><b>≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡</b></h3>
 </br>
-<p align="center">
+  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -13,7 +13,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 
-</div>
 <div align="center" >
   <a href="https://github.com/conchatuperrofrito">
   
