@@ -1,9 +1,9 @@
 ☢🚸hoy `r format(Sys.time(), '%Y-%m-%d')` ИЩУ РАБОТУ ДЛЯ ПРОДУКЦИИ PI PIPIPI, +51 962248105🚸☢
 ## <div align="center">![MC Technology](src/1.GIF)</div>
 <div align="center">
-  [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
-[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
 
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
 
 ![mysql](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![nodejs](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
@@ -41,3 +41,10 @@
 </div>
 
 ![Snake animation](src/serpiente.svg)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
