@@ -24,9 +24,9 @@
 <div align="center" >
   <a href="https://github.com/conchatuperrofrito">
     
-   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=conchatuperrofrito&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews")</a>
+
    
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conchatuperrofrito&layout=compact&theme=radical")</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=conchatuperrofrito&theme=<THEME_NAME>" />
 
 </div>
 </details>
