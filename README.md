@@ -13,6 +13,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 <h3 align="center"><b>≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡</b></h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=conchatuperrofrito&theme=<THEME_NAME>" />
 
 ![Snake animation](src/serpiente.svg)
 
@@ -26,7 +27,6 @@
     
 
    
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=conchatuperrofrito&theme=<THEME_NAME>" />
 
 </div>
 </details>
