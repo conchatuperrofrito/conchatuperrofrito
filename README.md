@@ -16,7 +16,7 @@
 <div align="center" >
   <a href="https://github.com/conchatuperrofrito">
   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=conchatuperrofrito&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=conchatuperrofrito&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews"/>
 
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conchatuperrofrito&layout=compact&theme=radical" />
