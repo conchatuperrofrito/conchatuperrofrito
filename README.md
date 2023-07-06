@@ -1,5 +1,6 @@
 <div align="center"> ☢🚸hoy `r format(Sys.time(), '%Y-%m-%d')` ИЩУ РАБОТУ ДЛЯ ПРОДУКЦИИ PI PIPIPI, +51 962248105🚸☢ </div>
-## <div align="center">![MC Technology](src/1.GIF)</div>
+##
+<div align="center">![MC Technology](src/1.GIF)</div>
 <div align="center">
 <h3 align="center"><b>≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡</b></h3>
 </br>
