@@ -6,12 +6,25 @@
   
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+
+![angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular)
+
+![react](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
+
+![typescript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
+
+![javascript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
+
+![figma](https://img.shields.io/badge/-figma-black?style=flat-square&logo=figma)
+
+![photoshop](https://img.shields.io/badge/-photoshop-black?style=flat-square&logo=photoshop)
+
+![mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
+
+![microsoftSQl](https://img.shields.io/badge/-microsoftSQl-black?style=flat-square&logo=microsoftSQl)
+
 <h3 align="center"><b>≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡:fireworks:≡</b></h3>
 <details>
     <summary> :point_right: Github Stats ⚡ :point_left: </summary>
