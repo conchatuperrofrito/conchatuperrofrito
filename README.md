@@ -1,4 +1,4 @@
-<h3 align="center"> ☢🚸hoy `r format(Sys.time(), '%Y-%m-%d')` ИЩУ РАБОТУ ДЛЯ ПРОДУКЦИИ PI PIPIPI, +51 962248105🚸☢ </h3>
+☢🚸hoy `r format(Sys.time(), '%Y-%m-%d')` ИЩУ РАБОТУ ДЛЯ ПРОДУКЦИИ PI PIPIPI, +51 962248105🚸☢
 
 <div align="center">![MC Technology](src/1.GIF)</div>
 
